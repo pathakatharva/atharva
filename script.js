@@ -20,7 +20,7 @@ $("#downloadPDF").click(function () {
         $("#content2").width(),
         $("#content2").height()
       );
-      pdf.save("azimuth-certificte.pdf");
+      pdf.save("certificte.pdf");
     }
   );
 });
